@@ -41,7 +41,7 @@ No dashboards. No AI-generated summaries. No complex scoring models. Just specif
 | Payments | Stripe (webhooks + subscription events) |
 | Tracking | Custom JS snippet (login frequency, feature usage) |
 | Email | Weekly digest via transactional email |
-| Auth | JWT |
+| Auth | Clerk |
 
 ---
 
@@ -69,4 +69,4 @@ No dashboards. No AI-generated summaries. No complex scoring models. Just specif
 
 ## Status
 
-Live since March 2026. Actively developed.
+Live since April 2026. Actively developed.
